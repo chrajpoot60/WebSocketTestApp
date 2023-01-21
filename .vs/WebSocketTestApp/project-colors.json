@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14ddeab6-64f4-4794-8db7-e398f50890a4": {
+      "ProjectGuid": "14ddeab6-64f4-4794-8db7-e398f50890a4",
+      "DisplayName": "WebSocketTestApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

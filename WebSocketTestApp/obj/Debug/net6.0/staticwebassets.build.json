@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "2H7fvYAwJBCJPzb6jTtTC5JaL7X9NqX9xtipa+l2YUI=",
+  "Source": "WebSocketTestApp",
+  "BasePath": "_content/WebSocketTestApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSocketTestApp\\wwwroot",
+      "Source": "WebSocketTestApp",
+      "ContentRoot": "D:\\TestProjects\\WebSocketTestApp\\WebSocketTestApp\\wwwroot\\",
+      "BasePath": "_content/WebSocketTestApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\TestProjects\\WebSocketTestApp\\WebSocketTestApp\\wwwroot\\index.html",
+      "SourceId": "WebSocketTestApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TestProjects\\WebSocketTestApp\\WebSocketTestApp\\wwwroot\\",
+      "BasePath": "_content/WebSocketTestApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
